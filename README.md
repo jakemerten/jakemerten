@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jakemerten
-- 👀 I’m interested in ... data visualization and telling stories with data
-- 🌱 I’m currently learning ... clojure / python
-- 💞️ I’m looking to collaborate on ... data visualization projects or simple python/clojure scripts
+- 👀 I’m interested in ... backend development
+- 🌱 I’m currently learning ... python / SQL
+- 💞️ I’m looking to collaborate on ...  python/SQL projects
 - 📫 How to reach me ... jakemer10@gmail.com or my website at https://jakemerten.netlify.app/
 
 <!---
