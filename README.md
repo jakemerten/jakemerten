@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jakemerten
 - 👀 I’m interested in ... backend development
 - 🌱 I’m currently learning ... Java/SQL
-- 💞️ I’m looking to collaborate on ...  Java/SQL/Data viz projects
+- 💞️ I’m looking to collaborate on ...  Java/Python/SQL/data viz projects
 - 📫 How to reach me ... jakemer10@gmail.com or my website at https://jakemerten.netlify.app/
 
 <!---
