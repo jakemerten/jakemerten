@@ -38,12 +38,11 @@ Currently, I'm focusing on diving deeper into fullstack development, machine lea
 
 ---
 
-### 📊 GitHub Stats
+### 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakemerten&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jakemerten/jakemerten/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jakemerten/jakemerten/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jakemerten/jakemerten/output/github-snake.svg" />
+</picture>
 
-</td>
-  </tr>
-</table>
