@@ -7,7 +7,7 @@
 
 Versatile software engineer and environmental scientist. I specialize in backend development and data-centric solutions, with hands-on experience in Java, Python, SQL, and C#. Whether it's building scalable systems, analyzing trends, or creating visualizations that tell a story, I thrive at the intersection of code and clarity. Known for tackling tough problems, iterating quickly, and collaborating seamlessly across teams to bring ideas to life.
 
-Currently, I'm focusing on diving deeper into fullstack development, machine learning algorithms, and building out my project portfolio. My goal is to create unique, scalable tools and learn as much as I can in the process.
+Currently, I'm focusing on diving deeper into fullstack development, machine learning algorithms, and building out my project portfolio. My goal is to create unique and valuable tools and learn as much as I can in the process.
 
 ---
 
