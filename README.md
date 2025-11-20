@@ -47,6 +47,7 @@ Currently, I'm focusing on diving deeper into fullstack development, machine lea
 </picture>
 
 
+
 <div align="center">
   <a href="https://hits.sh/github.com/jakemerten/jakemerten/">
     <img alt="Hits" src="https://hits.sh/github.com/jakemerten/jakemerten.svg?style=flat&label=visitors&color=c9510c&labelColor=21262d"/>
