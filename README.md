@@ -47,4 +47,4 @@ Currently, I'm focusing on diving deeper into fullstack development, machine lea
 </picture>
 
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jakemerten.jakemerten&left_color=21262d&right_color=c9510c)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jakemerten.jakemerten&left_color=21262d&right_color=c9510c&v=1)
