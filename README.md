@@ -46,4 +46,5 @@ Currently, I'm focusing on diving deeper into fullstack development, machine lea
   <img alt="github-snake" src="https://raw.githubusercontent.com/jakemerten/jakemerten/output/github-snake.svg" />
 </picture>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jakemerten.jakemerten)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jakemerten.jakemerten&left_color=555555&right_color=#BE5103)
