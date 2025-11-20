@@ -47,6 +47,6 @@ Currently, I'm focusing on diving deeper into fullstack development, machine lea
 </picture>
 
 
-<p style="text-align: center;">
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jakemerten.jakemerten&left_color=21262d&right_color=c9510c&v=1)
-</p>
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjakemerten%2Fjakemerten&count_bg=%23C9510C&title_bg=%2321262D&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Visitor Count" />
+</div>
