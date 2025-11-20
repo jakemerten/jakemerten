@@ -46,7 +46,7 @@ Currently, I'm focusing on diving deeper into fullstack development, machine lea
   <img alt="github-snake" src="https://raw.githubusercontent.com/jakemerten/jakemerten/output/github-snake.svg" />
 </picture>
 
-
+<br />
 
 <div align="center">
   <a href="https://hits.sh/github.com/jakemerten/jakemerten/">
